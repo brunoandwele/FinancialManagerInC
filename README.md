@@ -1,3 +1,3 @@
-GERENCIADOR FINANCEIRO FEITO EM C
+<h1>Financial Manager in C</h1>
 
-Projeto feito em 22 de novembro de 2022 para a matéria de CC2632 - DESENVOLVIMENTO DE ALGORITMOS, do curso de Ciência da computação do Centro Universitário FEI (segundo semestre). O projeto tinha como objetivo desenvolver um gerenciador financeiro feito totalmente na linguagem de programação C, com funcionalidades como cadastro de gastos, receitas, transferências e controle de saldo bancário. Esse projeto foi feito por ANA BEATRIZ TAVARES MALHEIRO e BRUNO ANDWELE ALVES ANTUNES. 
+Project created for the Algorithm Development course of the Computer Science bachelor's degree. This software, completely written in C programming language, has functionalities such as registering expenses, incomes, bank transfers, and balance control. The project was developed by BRUNO ANDWELE ALVES ANTUNES and ANA BEATRIZ TAVARES MALHEIRO
