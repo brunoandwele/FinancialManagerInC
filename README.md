@@ -1,3 +1,3 @@
 <h1>Financial Manager in C</h1>
 
-Project created for the Algorithm Development course of the Computer Science bachelor's degree. This software, completely written in C programming language, has functionalities such as registering expenses, incomes, bank transfers, and balance control. The project was developed by BRUNO ANDWELE ALVES ANTUNES and ANA BEATRIZ TAVARES MALHEIRO
+During my second semester of the Computer Science bachelor's degree, I had the opportunity to take the Algorithm Development course and develop a project that allowed me to put into practice the skills I learned. The project involved creating a software application that was completely written in the C programming language. The application had a range of useful features, including the ability to register expenses, incomes, bank transfers, and control balances. The project was developed by BRUNO ANDWELE ALVES ANTUNES and ANA BEATRIZ TAVARES MALHEIRO (@AnaBeatrizTavaresMalheiro).
